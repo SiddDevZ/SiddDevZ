@@ -15,7 +15,7 @@
 
 <br>
 
-[![SiddDevZ](https://icons8.com/icon/2mIgusGquJFz/discord)](https://discordapp.com/users/273352781442842624)
+[![SiddDevZ](https://img.icons8.com/color/512/discord-logo.png)](https://discordapp.com/users/273352781442842624)
 
 <br>
 
