@@ -1,15 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siddharth Meena</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SiddDevZ?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SiddDevZ.repoName) <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
-## Checkout my Latest personal projects 🚧
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddDevZ&repo=my-credential-protector&theme=github_dark)](https://github.com/SiddDevZ/Multipurpose-Discord-Bot)
 ## About Me :
 
 - 🏫 Studies for Computer Science in class 11 ( commerce with cs )
 - 🌱 I’m currently learning JavaScript and web development
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏡'Lives in **New Delhi India**
+- ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞
 
 <br>
 
@@ -17,7 +15,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+[![SiddDevZ7](https://icons8.com/icon/2mIgusGquJFz/discord)](https://discordapp.com/users/273352781442842624)
 
 <br>
 
