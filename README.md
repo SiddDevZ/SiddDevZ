@@ -1,16 +1,16 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siddharth Meena</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SiddDevZ?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SiddDevZ.repoName) <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
+## Checkout my Latest personal projects 🚧
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddDevZ&repo=my-credential-protector&theme=github_dark)](https://github.com/SiddDevZ/Multipurpose-Discord-Bot)
 ## About Me :
 
 - 🏫 Studies for Computer Science in class 11 ( commerce with cs )
 - 🌱 I’m currently learning JavaScript and web development
 - 🏡'Lives in **Dalugama Sri Lanka**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
-## Checkout my Latest personal projects 🚧
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddDevZ&repo=my-credential-protector&theme=github_dark)](https://github.com/SiddDevZ/Multipurpose-Discord-Bot)
 <br>
 
 ## Connect with me ☕ :
