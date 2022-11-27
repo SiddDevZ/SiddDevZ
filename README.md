@@ -21,6 +21,7 @@
 ## Checkout my Latest personal projects 🚧
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddDevZ&repo=my-credential-protector&theme=github_dark)](https://github.com/SiddDevZ/Multipurpose-Discord-Bot)
+[![trophy](https://github-readme-stats.vercel.app/api/pin/?username=SiddDevZ&repo=my-credential-protector&theme=github_dark)](https://github.com/SiddDevZ/Multipurpose-Discord-Bot)
 ## What I am Good at 🧑‍💻 :
 
 <br>
