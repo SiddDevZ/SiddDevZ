@@ -4,7 +4,7 @@
 
 ## About Me :
 
-- 🏫 Studying, Grade 12 ( commerce with computer science )
+- 🏫 Studying, Grade 12 ( Commerce with Computer Science )
 - 🌱 I’m currently improving my Web Development
 - 🏡 Lives in **New Delhi, India**
 - ⚡ **Fun Facts** : 🍕 🏉 🎥 🚞
