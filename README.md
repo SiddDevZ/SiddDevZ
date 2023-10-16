@@ -4,9 +4,7 @@
 
 ## About Me :
 
-- 🏫 Studying, Grade 12 ( Commerce with Computer Science )
 - 🌱 I’m currently improving Web Development
-- 🏡 Lives in **New Delhi, India**
 - ⚡ **Fun Facts** : 🔥✅🚀💀
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -23,5 +21,3 @@
 <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-Last edited on: 30/03/2023
