@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siddharth Jorwal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siddharth Meena</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SiddDevZ?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SiddDevZ.repoName) <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
 
