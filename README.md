@@ -29,13 +29,13 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
 
 <pre>
  ~> stats --github
-</pre>
 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=SiddDevZ&theme=transparent&hide_border=true"
   />
 </p>
+</pre>
 
 ---
 <pre>
