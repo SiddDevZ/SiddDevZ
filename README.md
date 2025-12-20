@@ -12,13 +12,16 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
 
    web · ui · systems · backend
 
+---
  ~> whoami
  Name:     Siddharth
  Location: Jaipur, India
  Role:     Full-Stack Developer
  Focus:    UI, UX, Web Systems
  Status:   building & shipping
-
+   
+---
+   
  ~> ls links
  X (Twitter):  https://x.com/buildwithsid
  Portfolio:    https://siddz.com
