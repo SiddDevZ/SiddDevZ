@@ -1,7 +1,7 @@
 for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
 
 ---
-
+![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) <img src="https://komarev.com/ghpvc/?username=SiddDevZ&color=brightgreen" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
 <pre>
    _____ _     _     _ _                _   _     
   / ____(_)   | |   | | |              | | | |    
@@ -24,7 +24,7 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
  Portfolio:    https://siddz.com
  Email:        siddharth@onavix.com
 </pre>
-![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) <img src="https://komarev.com/ghpvc/?username=SiddDevZ&color=brightgreen" alt="watching_count" /> <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
+
 ---
 
 <pre>
