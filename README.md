@@ -1,6 +1,33 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Siddharth Meena</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/SiddDevZ?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/SiddDevZ?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SiddDevZ.repoName) <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
+<p align="center">
+  <a href="https://github.com/SiddDevZ">
+    <img src="https://komarev.com/ghpvc/?username=SiddDevZ&label=Profile%20Views&color=0e75b6&style=flat" alt="SiddDevZ" />
+  </a>
+  <a href="https://github.com/SiddDevZ?tab=followers">
+    <img src="https://img.shields.io/github/followers/SiddDevZ?label=Followers&style=social" alt="Followers" />
+  </a>
+  <a href="https://github.com/SiddDevZ">
+    <img src="https://komarev.com/ghpvc/?username=SiddDevZ" alt="SiddDevZ" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Full-Stack Developer based in Jaipur, India 🇮🇳</b><br>
+  I build interactive web apps with a focus on UI design and seamless user experiences.
+</p>
+
+<p align="center">
+  <a href="https://x.com/buildwithsid" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="mailto:siddharth@onavix.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://siddz.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
+  </a>
+</p>
 
 ## About Me :
 
