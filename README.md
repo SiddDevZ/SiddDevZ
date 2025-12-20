@@ -31,27 +31,23 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
  Email:        siddharth@onavix.com
 </pre>
 
+---
 <pre>
  ~> stats --github
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=SiddDevZ&theme=transparent&hide_border=true"
-  />
-</p>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=SiddDevZ&theme=transparent&hide_border=true"
+/>
+
 </pre>
 
 ---
-<pre>
- ~> cat work.txt
- - full-stack web applications
- - ui systems & backend
 
- ~> cat stack.txt
+<pre>
+
+ ~> cat techstack.txt
    next.js · react · typescript · python
    tailwind · css · figma · framer
-   node · express · bun · hono
+   node · express · bun · git · hono
    databases · infra · tooling
 </pre>
-
----
