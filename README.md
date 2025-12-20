@@ -12,7 +12,9 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
 
    web · ui · systems · backend
 
+</pre>
 ---
+<pre>
  ~> whoami
  Name:     Siddharth
  Location: Jaipur, India
@@ -20,8 +22,9 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
  Focus:    UI, UX, Web Systems
  Status:   building & shipping
    
+</pre>
 ---
-   
+<pre>
  ~> ls links
  X (Twitter):  https://x.com/buildwithsid
  Portfolio:    https://siddz.com
