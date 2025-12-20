@@ -13,11 +13,6 @@
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer based in Jaipur, India 🇮🇳</b><br>
-  I build interactive web apps with a focus on UI design and seamless user experiences.
-</p>
-
-<p align="center">
   <a href="https://x.com/buildwithsid" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
