@@ -13,7 +13,7 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
    web · ui · systems · backend
 
 </pre>
----
+
 <pre>
  ~> whoami
  Name:     Siddharth
@@ -23,15 +23,13 @@ for freelance work? do reach, [email](mailto:siddharth@onavix.com) :)
  Status:   building & shipping
    
 </pre>
----
+
 <pre>
  ~> ls links
  X (Twitter):  https://x.com/buildwithsid
  Portfolio:    https://siddz.com
  Email:        siddharth@onavix.com
 </pre>
-
----
 
 <pre>
  ~> stats --github
